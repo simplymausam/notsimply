@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://simplymausam.github.io/notsimply/sitemap.xml

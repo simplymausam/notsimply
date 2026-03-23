@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "notsimply",
+    "description": "",
+    "home_page_url": "https://simplymausam.github.io/notsimply",
+    "feed_url": "https://simplymausam.github.io/notsimply/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "simplymausam"
+    },
+    "items": [
+    ]
+}

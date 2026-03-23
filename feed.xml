@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>notsimply</title>
+    <link href="https://simplymausam.github.io/notsimply/feed.xml" rel="self" />
+    <link href="https://simplymausam.github.io/notsimply" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>simplymausam</name>
+    </author>
+    <id>https://simplymausam.github.io/notsimply</id>
+
+</feed>
